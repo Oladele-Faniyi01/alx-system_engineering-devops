@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u(user)g(group)+x hello
+chmod ug+x hello
