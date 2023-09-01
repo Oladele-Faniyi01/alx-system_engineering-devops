@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 500 /tmp/hello
+chmode 500 hello
